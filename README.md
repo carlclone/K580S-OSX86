@@ -5,4 +5,4 @@ This is a project created for my old hasee laptop bought at 2013  , supported ma
 
 Installed at 2017-10-13 , works totally fine until now
 
-contains slightly tweak for backlight , need to install the backlight injector from tonymacx86.com to enable it
+contains slightly tweak for backlight , install the backlight injector from tonymacx86.com to enable it
